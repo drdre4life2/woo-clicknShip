@@ -1,0 +1,17 @@
+{
+    "name": "credpal-dare/wordpress",
+    "description": "plugin thefrist",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Dare Adewuyi",
+            "email": "dare.a@credpal.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
